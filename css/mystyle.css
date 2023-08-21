@@ -1,0 +1,17 @@
+/*	文章内容重点标记样式*/
+em {
+	font-style:inherit;
+}
+
+.c-orange{
+	color: #FF7F50
+}
+
+.c-darkblue{
+	color: #008B8B;
+}
+
+.b-lemon{
+	background-color: #FFFACD;
+	color: #333;
+}
