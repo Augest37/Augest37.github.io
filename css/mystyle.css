@@ -11,3 +11,11 @@
 	background-color: #FFFACD;
 	color: #333;
 }
+
+.wavy-green {
+	text-decoration: green wavy underline;
+}
+
+.underline {
+	text-decoration: underline;
+}
